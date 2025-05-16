@@ -1,2 +1,6 @@
 some
 lines
+
+Hi!
+Thank you for your homework, very creative, detailed, good job.
+I just find it interesting how the area is negative in the case of some shapes. I see that it is for example a Parallelogram with angle 270° and a Triangle with angle 240° but shouldn't it be checked then, whether valid parameters were provided in order not to get negative values for the area? :) This is just an extra/additional that you extended the task with, so it is just a recommendation. :) 
